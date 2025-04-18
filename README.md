@@ -55,6 +55,7 @@ n8n --version
 模型可以選 `models-2.0-flash`
 ### 新增 Tool `MCP Clinet Tool`
 SSE 欄位貼上剛剛備份的 `Production URL`  
+PS: 我電腦上 localhost 要改成 127.0.0.1 才能連上  
 
 # 測試
 ![測試](./images/n8n05.png)
