@@ -1,6 +1,8 @@
 # n8n
 全面瞭解 n8n v1.88.0 的重磅更新 —— MCP Server
 
+![MCP](./images/n8n.gif)
+
 # 安裝
 ```shell
 npm install n8n -g
